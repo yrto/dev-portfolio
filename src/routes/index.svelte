@@ -6,7 +6,7 @@
 	<h1>Welcome to SvelteKit</h1>
 </header>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<footer>Copyright © 2021 - DEV test</footer>
+<footer>Copyright © 2021 - DEV test 3.0</footer>
 
 <style lang="postcss">
 	header {
